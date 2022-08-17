@@ -19,6 +19,10 @@ This is a test repository to explore the possibility of using GitHub as a reposi
 ### Possible work-arounds
 * Host video files on YouTube, provide links in readme.md or in html or Word docs within pertinent folders
 
+## Concerns
+* GitHub's collaborative nature may invite questions/comments that, if answered, could be a drain on the team's time. 
+   * **Question**: Is it possible to turn off issue submission for non-contributors? 
+
 ## Related Links
 * [CEDS](https://ceds.ed.gov/)
 * [Ed-Fi](https://www.ed-fi.org/)
