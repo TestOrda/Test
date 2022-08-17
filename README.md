@@ -1,6 +1,6 @@
 # GitHub Test for Aquinas
 
-This is a test repository to explore the possibility of using GitHub as a repository for documents and scripts relating to 
+This is a test repository to explore the possibility of using GitHub as a repository for documents and scripts relating to CEDS, Ed-Fi, and related technologies.
 
 ## Benefits
 
