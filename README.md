@@ -21,7 +21,8 @@ This is a test repository to explore the possibility of using GitHub as a reposi
 
 ## Concerns
 * GitHub's collaborative nature may invite questions/comments that, if answered, could be a drain on the team's time. 
-   * **Question**: Is it possible to turn off issue submission for non-contributors? 
+   * ~~**Question**: Is it possible to turn off issue submission for non-contributors?~~
+   * **Answer**: [The Issues tab can be turned off for the repo.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/disabling-issues)
 
 ## Related Links
 * [CEDS](https://ceds.ed.gov/)
